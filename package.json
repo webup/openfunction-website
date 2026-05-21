@@ -18,7 +18,7 @@
   "homepage": "https://github.com/OpenFunction/website#readme",
   "dependencies": {
     "docsy": "^0.10.0",
-    "postcss": "^8.5.14"
+    "postcss": "^8.5.15"
   },
   "devDependencies": {
     "autoprefixer": "^10.5.0",
